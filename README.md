@@ -1,5 +1,6 @@
 # project-4
-#Brand Identity(Logo Design)
+# Brand Identity(Logo Design)
+
 MoodBoard Section:
 The MoodBoard showcases Brawn Jewelry’s creative inspiration, emphasizing elegance, luxury, and timelessness. The gold jewelry reflects the brand’s sophistication, while the yellow gradient evokes warmth and energy. Bold typography and modern graphics add a youthful and contemporary feel, balancing both classic and modern design elements.
 
